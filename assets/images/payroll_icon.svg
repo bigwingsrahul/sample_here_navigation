@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="file-invoice-dollar-solid" x="5" y="7" width="31" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dx="-4" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Payroll" transform="translate(-48 -400)">
+    <rect id="Rectangle_2092" data-name="Rectangle 2092" width="48" height="48" transform="translate(48 400)" fill="#0082fb" opacity="0.001"/>
+    <g transform="matrix(1, 0, 0, 1, 48, 400)" filter="url(#file-invoice-dollar-solid)">
+      <path id="file-invoice-dollar-solid-2" data-name="file-invoice-dollar-solid" d="M4,0A4,4,0,0,0,0,4V28a4,4,0,0,0,4,4H20a4,4,0,0,0,4-4V10H16a2,2,0,0,1-2-2V0ZM16,0V8h8ZM4,5A1,1,0,0,1,5,4H9A1,1,0,0,1,9,6H5A1,1,0,0,1,4,5ZM4,9A1,1,0,0,1,5,8H9a1,1,0,0,1,0,2H5A1,1,0,0,1,4,9Zm8,4.5a1,1,0,0,1,1,1v1.081a12.514,12.514,0,0,1,1.506.319,1,1,0,0,1-.519,1.931,8.2,8.2,0,0,0-2.006-.331,2.957,2.957,0,0,0-1.475.344.872.872,0,0,0-.506.8c0,.231.081.406.456.631a8.784,8.784,0,0,0,1.825.681l.031.006h0a9.276,9.276,0,0,1,2.269.913A2.8,2.8,0,0,1,16,23.263a2.925,2.925,0,0,1-1.431,2.6A4.353,4.353,0,0,1,13,26.431V27.5a1,1,0,0,1-2,0V26.388a13.376,13.376,0,0,1-1.931-.556h0c-.131-.044-.262-.087-.387-.131a1,1,0,0,1,.631-1.894c.156.05.3.1.444.15h0a7.783,7.783,0,0,0,2.269.544,2.754,2.754,0,0,0,1.481-.331.929.929,0,0,0,.487-.875.815.815,0,0,0-.481-.725,7.9,7.9,0,0,0-1.812-.7l-.1-.031h0a9.533,9.533,0,0,1-2.175-.856A2.665,2.665,0,0,1,8.006,18.65a2.864,2.864,0,0,1,1.488-2.531A4.6,4.6,0,0,1,11,15.575V14.5a1,1,0,0,1,1-1Z" transform="translate(12 8)" fill="#01aae9"/>
+    </g>
+  </g>
+</svg>

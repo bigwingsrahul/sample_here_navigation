@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="Close_icon" data-name="Close icon" transform="translate(-0.18)">
+    <g id="Ellipse_14" data-name="Ellipse 14" transform="translate(0.18)" fill="#f2f4f4" stroke="#363640" stroke-width="1">
+      <circle cx="12.5" cy="12.5" r="12.5" stroke="none"/>
+      <circle cx="12.5" cy="12.5" r="12" fill="none"/>
+    </g>
+    <path id="Icon_ionic-md-close" data-name="Icon ionic-md-close" d="M20.452,8.816,19.159,7.523l-5.171,5.171L8.816,7.523,7.523,8.816l5.171,5.171L7.523,19.159l1.293,1.293,5.171-5.171,5.171,5.171,1.293-1.293L15.28,13.988Z" transform="translate(-1.353 -1.353)" fill="#363640"/>
+  </g>
+</svg>

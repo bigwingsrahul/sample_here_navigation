@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="tablet-solid" x="3" y="7" width="35" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dx="-4" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="DVIR" transform="translate(-48 -256)">
+    <rect id="Rectangle_2090" data-name="Rectangle 2090" width="48" height="48" transform="translate(48 256)" fill="#0082fb" opacity="0"/>
+    <g transform="matrix(1, 0, 0, 1, 48, 256)" filter="url(#tablet-solid)">
+      <path id="tablet-solid-2" data-name="tablet-solid" d="M4,0A4,4,0,0,0,0,4V28a4,4,0,0,0,4,4H24a4,4,0,0,0,4-4V4a4,4,0,0,0-4-4Zm7,27h6a1,1,0,1,1,0,2H11a1,1,0,0,1,0-2Z" transform="translate(10 8)" fill="#01aae9"/>
+    </g>
+  </g>
+</svg>

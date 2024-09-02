@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="182" height="186" viewBox="0 0 182 186">
+  <defs>
+    <filter id="Dispatch_BG" x="0" y="0" width="182" height="186" filterUnits="userSpaceOnUse">
+      <feOffset dx="8" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g data-type="innerShadowGroup">
+    <rect id="Dispatch_BG-2" data-name="Dispatch BG" width="182" height="186" rx="16" fill="#fafeff"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Dispatch_BG)">
+      <rect id="Dispatch_BG-3" data-name="Dispatch BG" width="182" height="186" rx="16" fill="#fff"/>
+    </g>
+    <g id="Dispatch_BG-4" data-name="Dispatch BG" fill="none" stroke="#01aae9" stroke-width="1">
+      <rect width="182" height="186" rx="16" stroke="none"/>
+      <rect x="0.5" y="0.5" width="181" height="185" rx="15.5" fill="none"/>
+    </g>
+  </g>
+</svg>

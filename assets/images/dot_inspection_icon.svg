@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="49" height="48" viewBox="0 0 49 48">
+  <defs>
+    <filter id="file-circle-check-solid" x="0" y="7" width="43" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dx="-4" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="DVIR" transform="translate(-47 -256)">
+    <rect id="Rectangle_2090" data-name="Rectangle 2090" width="48" height="48" transform="translate(48 256)" fill="#0082fb" opacity="0"/>
+    <g transform="matrix(1, 0, 0, 1, 47, 256)" filter="url(#file-circle-check-solid)">
+      <path id="file-circle-check-solid-2" data-name="file-circle-check-solid" d="M0,4A4,4,0,0,1,4,0H14V8a2,2,0,0,0,2,2h8v2.413a11.008,11.008,0,0,0-3.394,19.544A3.9,3.9,0,0,1,20,32H4a4,4,0,0,1-4-4ZM24,8H16V0ZM18,23a9,9,0,1,1,9,9A9,9,0,0,1,18,23Zm13.206-2.706a1,1,0,0,0-1.412,0L26,24.087l-1.794-1.794a1,1,0,0,0-1.412,1.412l2.5,2.5a1,1,0,0,0,1.412,0l4.5-4.5A1,1,0,0,0,31.206,20.294Z" transform="translate(7 8)" fill="#01aae9"/>
+    </g>
+  </g>
+</svg>

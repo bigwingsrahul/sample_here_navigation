@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="list-solid" x="2.923" y="11" width="35" height="30" filterUnits="userSpaceOnUse">
+      <feOffset dx="-4" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="DVIR" transform="translate(-48 -256)">
+    <rect id="Rectangle_2090" data-name="Rectangle 2090" width="48" height="48" transform="translate(48 256)" fill="#0082fb" opacity="0"/>
+    <g transform="matrix(1, 0, 0, 1, 48, 256)" filter="url(#list-solid)">
+      <path id="list-solid-2" data-name="list-solid" d="M17.355,48A1.367,1.367,0,0,0,16,49.385v2.769a1.367,1.367,0,0,0,1.355,1.385h2.71a1.367,1.367,0,0,0,1.355-1.385V49.385A1.367,1.367,0,0,0,20.065,48Zm8.581.923a1.847,1.847,0,0,0,0,3.692H42.194a1.847,1.847,0,0,0,0-3.692Zm0,9.231a1.847,1.847,0,0,0,0,3.692H42.194a1.847,1.847,0,0,0,0-3.692Zm0,9.231a1.847,1.847,0,0,0,0,3.692H42.194a1.847,1.847,0,0,0,0-3.692ZM16,58.615v2.769a1.367,1.367,0,0,0,1.355,1.385h2.71a1.367,1.367,0,0,0,1.355-1.385V58.615a1.367,1.367,0,0,0-1.355-1.385h-2.71A1.367,1.367,0,0,0,16,58.615Zm1.355,7.846A1.367,1.367,0,0,0,16,67.846v2.769A1.367,1.367,0,0,0,17.355,72h2.71a1.367,1.367,0,0,0,1.355-1.385V67.846a1.367,1.367,0,0,0-1.355-1.385Z" transform="translate(-6.08 -36)" fill="#01aae9"/>
+    </g>
+  </g>
+</svg>

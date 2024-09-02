@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="file-contract-solid" x="6" y="7" width="31" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dx="-4" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Accident_Report" data-name="Accident Report" transform="translate(-48 -328)">
+    <rect id="Rectangle_2091" data-name="Rectangle 2091" width="48" height="48" transform="translate(48 328)" fill="#0082fb" opacity="0.004"/>
+    <g transform="matrix(1, 0, 0, 1, 48, 328)" filter="url(#file-contract-solid)">
+      <path id="file-contract-solid-2" data-name="file-contract-solid" d="M4,0A4,4,0,0,0,0,4V28a4,4,0,0,0,4,4H20a4,4,0,0,0,4-4V10H16a2,2,0,0,1-2-2V0ZM16,0V8h8ZM5,4H9A1,1,0,0,1,9,6H5A1,1,0,0,1,5,4ZM5,8H9a1,1,0,0,1,0,2H5A1,1,0,0,1,5,8ZM8.387,23.862A3,3,0,0,1,5.512,26H5a1,1,0,0,1,0-2h.512a.992.992,0,0,0,.956-.712L7.4,20.194a1.669,1.669,0,0,1,3.2,0l.725,2.413a2.618,2.618,0,0,1,4.019.844l.275.55H19a1,1,0,0,1,0,2H15a1,1,0,0,1-.894-.55l-.55-1.106a.615.615,0,0,0-.55-.344.608.608,0,0,0-.55.344l-.55,1.106a1,1,0,0,1-1.85-.156L9,21.813Z" transform="translate(13 8)" fill="#01aae9"/>
+    </g>
+  </g>
+</svg>

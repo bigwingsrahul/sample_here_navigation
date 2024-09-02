@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="6.75" height="44.371" viewBox="0 0 6.75 44.371">
+  <g id="Group_3615" data-name="Group 3615" transform="translate(-24 -235)">
+    <path id="Path_883" data-name="Path 883" d="M0,0V32.371" transform="translate(27.375 247)" fill="none" stroke="#c2c0c2" stroke-width="1" stroke-dasharray="2"/>
+    <path id="map-pin-solid" d="M16,3.375A3.375,3.375,0,1,1,19.375,6.75,3.375,3.375,0,0,1,16,3.375Zm3.375-1.5a.375.375,0,0,0,0-.75,2.251,2.251,0,0,0-2.25,2.25.375.375,0,1,0,.75,0A1.5,1.5,0,0,1,19.375,1.875Zm-.75,9.375V7.432a4.172,4.172,0,0,0,1.5,0V11.25a.75.75,0,0,1-1.5,0Z" transform="translate(8 235)" fill="#1eb980"/>
+  </g>
+</svg>

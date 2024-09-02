@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="file-shield-solid" x="5" y="7" width="42.995" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dx="-4" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Claim_Report" data-name="Claim Report" transform="translate(-48 -400)">
+    <rect id="Rectangle_2092" data-name="Rectangle 2092" width="48" height="48" transform="translate(48 400)" fill="#0082fb" opacity="0.001"/>
+    <g transform="matrix(1, 0, 0, 1, 48, 400)" filter="url(#file-shield-solid)">
+      <path id="file-shield-solid-2" data-name="file-shield-solid" d="M0,4A4,4,0,0,1,4,0H14V8a2,2,0,0,0,2,2h8v2.937l-5.8,2.318A3.5,3.5,0,0,0,16,18.5c0,3.537,1.181,9.249,5.887,13.017A4.006,4.006,0,0,1,20,32H4a4,4,0,0,1-4-4ZM24,8H16V0ZM26.44,14.1a1.489,1.489,0,0,1,1.112,0l7.5,3a1.507,1.507,0,0,1,.944,1.394c0,3.956-1.619,10.548-8.424,13.386a1.484,1.484,0,0,1-1.156,0C19.616,29.046,18,22.453,18,18.5a1.507,1.507,0,0,1,.944-1.394l7.5-3ZM32.958,19.5,27,17.11V28.852A10.984,10.984,0,0,0,32.958,19.5Z" transform="translate(12 8)" fill="#01aae9"/>
+    </g>
+  </g>
+</svg>

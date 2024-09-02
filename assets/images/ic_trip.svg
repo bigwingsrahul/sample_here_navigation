@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54.692" height="46" viewBox="0 0 54.692 46">
+  <defs>
+    <filter id="list-solid" x="0" y="0" width="54.692" height="46" filterUnits="userSpaceOnUse">
+      <feOffset dx="-4" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#list-solid)">
+    <path id="list-solid-2" data-name="list-solid" d="M18.308,48A2.3,2.3,0,0,0,16,50.308v4.615a2.3,2.3,0,0,0,2.308,2.308h4.615a2.3,2.3,0,0,0,2.308-2.308V50.308A2.3,2.3,0,0,0,22.923,48Zm14.615,1.538a3.077,3.077,0,1,0,0,6.154H60.615a3.077,3.077,0,0,0,0-6.154Zm0,15.385a3.077,3.077,0,1,0,0,6.154H60.615a3.077,3.077,0,0,0,0-6.154Zm0,15.385a3.077,3.077,0,1,0,0,6.154H60.615a3.077,3.077,0,0,0,0-6.154ZM16,65.692v4.615a2.3,2.3,0,0,0,2.308,2.308h4.615a2.3,2.3,0,0,0,2.308-2.308V65.692a2.3,2.3,0,0,0-2.308-2.308H18.308A2.3,2.3,0,0,0,16,65.692Zm2.308,13.077A2.3,2.3,0,0,0,16,81.077v4.615A2.3,2.3,0,0,0,18.308,88h4.615a2.3,2.3,0,0,0,2.308-2.308V81.077a2.3,2.3,0,0,0-2.308-2.308Z" transform="translate(-9 -47)" fill="#01aae9"/>
+  </g>
+</svg>

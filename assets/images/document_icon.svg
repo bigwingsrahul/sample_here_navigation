@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <filter id="file-solid" x="6" y="7" width="31" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dx="-4" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Documents" transform="translate(-48 -400)">
+    <rect id="Rectangle_2092" data-name="Rectangle 2092" width="48" height="48" transform="translate(48 400)" fill="#0082fb" opacity="0.001"/>
+    <g transform="matrix(1, 0, 0, 1, 48, 400)" filter="url(#file-solid)">
+      <path id="file-solid-2" data-name="file-solid" d="M0,4A4,4,0,0,1,4,0H14V8a2,2,0,0,0,2,2h8V28a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4ZM24,8H16V0Z" transform="translate(13 8)" fill="#01aae9"/>
+    </g>
+  </g>
+</svg>

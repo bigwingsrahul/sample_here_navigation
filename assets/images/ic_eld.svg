@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="46" viewBox="0 0 42 46">
+  <defs>
+    <filter id="tablet-solid" x="0" y="0" width="42" height="46" filterUnits="userSpaceOnUse">
+      <feOffset dx="-4" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#tablet-solid)">
+    <path id="tablet-solid-2" data-name="tablet-solid" d="M5,0A5,5,0,0,0,0,5V35a5,5,0,0,0,5,5H30a5,5,0,0,0,5-5V5a5,5,0,0,0-5-5Zm8.75,33.75h7.5a1.25,1.25,0,0,1,0,2.5h-7.5a1.25,1.25,0,0,1,0-2.5Z" transform="translate(7 1)" fill="#01aae9"/>
+  </g>
+</svg>
